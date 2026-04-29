@@ -105,16 +105,6 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-
----
-
-## 💡 Key Learnings
-
-* Understanding NLP preprocessing techniques
-* Feature extraction using TF-IDF
-* Building classification models
-* Evaluating model performance
-
 ---
 
 ## 👩‍💻 Author
