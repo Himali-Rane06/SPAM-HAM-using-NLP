@@ -105,6 +105,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
+This project demonstrates how NLP and machine learning can be effectively used to automatically detect spam messages, making communication systems more secure and efficient.
 ---
 
 ## 👩‍💻 Author
